@@ -1,7 +1,5 @@
-for (let j = 5; j >=1; j--) {
-    for (let i = 1; i < j; i++) {
-        document.write(`*`) 
-    }
-    document.write(`<br/>`)
-    
+let number = 4562  //+promt(`eded daxil edin`)
+let sum= 0
+for (let i = 0; i <=4; i++) {
+  
 }
