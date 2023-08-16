@@ -12,13 +12,14 @@ while (firstMark>0 && secondMark>0 && thirdMark>0) {
 console.log(`avarage`);
 
 //I wanna try this way
-// let m = +prompt(`write your marks`)
-// let sum = 0
-// let index= 1
-// let avarage = 0
-//  for (let m = 0; m <4; ) {
-//     sum+=m
-//     avarage= sum/index 
-//     index++
-//  }
-//  console.log(avarage);
+/* let m = +prompt(`write your marks`)
+ let sum = 0
+ let index= 1
+ let avarage = 0
+  for (let m = 0; m <4; ) {
+     sum+=m
+    avarage= sum/index 
+    index++
+  }
+  console.log(avarage)
+  */
