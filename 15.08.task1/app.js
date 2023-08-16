@@ -9,7 +9,7 @@ while (firstMark>0 && secondMark>0 && thirdMark>0) {
    sum = firstMark + secondMark + thirdMark
    avarage = sum / index
 }
-console.log(`avarage`);
+console.log(avarage);
 
 //I wanna try this way
 /* let m = +prompt(`write your marks`)
