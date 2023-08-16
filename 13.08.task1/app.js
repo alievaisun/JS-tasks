@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 const randomNumber = 49
 let playerNumber = +prompt(' Write the number between 0 and 50')
 let count = 1;
