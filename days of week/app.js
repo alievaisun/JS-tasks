@@ -1,3 +1,4 @@
+// A: done as 🐉
 let daysOfWeek = +prompt(`write the number between 1 and 7`)
 switch (daysOfWeek) {
     case 1:
