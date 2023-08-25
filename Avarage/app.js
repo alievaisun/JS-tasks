@@ -1,3 +1,4 @@
+// A: 
 let firstMark = +prompt(`write your first mark`)
 let secondMark = +prompt(`write your second mark`)
 let thirdMark = +prompt(`write your third mark`)
