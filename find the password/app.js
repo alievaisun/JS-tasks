@@ -1,3 +1,4 @@
+// A: done as 🐉
 let password = +prompt(`Password`)
 
 while (password !== 1704) {
